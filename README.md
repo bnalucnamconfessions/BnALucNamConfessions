@@ -8,3 +8,13 @@
 - 📫 How to reach me: hoangthanhbinh0809@gmail.com
   Zalo: 0813703235
   Fb:https://www.facebook.com/copy.link.fb.la.yeuminhroiii/
+
+  
+## PROJECT
+  "Here are some of my small projects."
+
+- BnA Luc Nam Confession website design project.
+- Happy birthday to my girlfriend
+- Support in diagnosing diseases and predicting lung conditions. 
+- Predicting Eye Conditions in Traffic Safety.
+- Predicting Errors in the garment manufacturing process.
