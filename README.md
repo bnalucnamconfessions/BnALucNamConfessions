@@ -16,6 +16,6 @@
 - BnA Luc Nam Confession website design project.
 - Happy birthday to my girlfriend
 - Support in diagnosing diseases and predicting lung conditions.
-- Predicting the likelihood of kidney disease:Predicting the likelihood of kidney disease.
+- Predicting the likelihood of kidney disease: 
 - Predicting Eye Conditions in Traffic Safety.
 - Predicting Errors in the garment manufacturing process.
